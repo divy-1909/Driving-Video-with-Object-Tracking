@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your project based on the YouTube video you shared:
 
-```markdown
 # Driving Video with Object Tracking
 
 This project demonstrates how to perform object tracking in driving videos, using computer vision techniques to identify and track objects in real-time. The project leverages the power of **OpenCV** and **Python** for object detection and tracking in video frames.
@@ -77,16 +75,14 @@ Here is an example of running the tracking on a driving video:
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - [YouTube Tutorial](https://youtu.be/AxIc-vGaHQ0?si=w8Yw7JcBY8B5B3tL) for object tracking and driving video analysis.
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [NumPy Documentation](https://numpy.org/doc/)
-```
+
 
 ### Key Sections:
 
@@ -98,4 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 6. **License**: License information (you can change this as needed).
 7. **Acknowledgements**: Credits or links to tutorials or documentation used in the project.
 
-You can add images, links to video tutorials, or more detailed sections as needed for your project. Let me know if you need further modifications!
