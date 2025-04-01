@@ -79,8 +79,7 @@ Here is an example of running the tracking on a driving video:
 
 ## Acknowledgements
 
-- [YouTube Tutorial](https://youtu.be/AxIc-vGaHQ0?si=w8Yw7JcBY8B5B3tL) for object tracking and driving video analysis.
-- [OpenCV Documentation](https://docs.opencv.org/)
+
 - [NumPy Documentation](https://numpy.org/doc/)
 
 
